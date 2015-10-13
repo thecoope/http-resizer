@@ -2,7 +2,11 @@ A simple image resizer using VIPS.
 
 ## Install VIPS
 
-On OS X: `brew install homebrew/science/vips
+On OS X:
+
+```
+brew install homebrew/science/vips
+```
 
 On Ubuntu:
 
