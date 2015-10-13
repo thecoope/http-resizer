@@ -1,0 +1,12 @@
+{
+  "name": "resizer",
+  "version": "1.0.0",
+  "description": "A simple image resizer using VIPS",
+  "author": "Andrew Peace <andrew@coo.pe>",
+  "dependencies": {
+    "express": "^4.13.3",
+    "sharp": "^0.11.3",
+    "superagent": "^1.4.0"
+  },
+  "devDependencies": {}
+}
